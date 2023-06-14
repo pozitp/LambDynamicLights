@@ -41,7 +41,7 @@ Searching other mods to replace OptiFine? [Check out this list!](https://gist.gi
 - Quick and simple API for developers.
 - And more!
 
-## Screenshots
+## Screenshots.
 
 ### Items emit light
 
